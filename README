@@ -2,6 +2,13 @@
  Ruby interface of Tkrzw
 ================================================================
 
+Install library: `sudo apt install libtkrzw-dev`
+
+Add this to Gemfile:
+```
+gem 'tkrzw-unofficial'
+```
+
 Please read the following documents.
 
   COPYING           - license

@@ -35,10 +35,10 @@
 #include "tkrzw_lib_common.h"
 #include "tkrzw_str_util.h"
 
-extern "C" {
-
 #include "ruby.h"
 #include "ruby/thread.h"
+
+extern "C" {
 
 typedef VALUE (*METHOD)(...);
 
